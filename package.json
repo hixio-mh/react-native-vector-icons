@@ -61,7 +61,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.20",
     "prop-types": "^15.7.2",
     "yargs": "^15.0.2"
   },
